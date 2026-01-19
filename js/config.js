@@ -61,7 +61,7 @@ var l_musicRandom = false;
 
 /*Volume de la musiqe
 Mettez un nombre entre 0 et 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 15;
 
 /*Activer les messages personnalisés ? ( "True" pour Oui / "False" pour Non )*/
 var l_messagesEnabled = true;
@@ -84,4 +84,5 @@ Il est conseillé de mettre la même valeur qu'à "Delai ( millisecondes ) entre
 var l_messagesDelay = 3000;
 
 /*Durée de l'animation de changement d'image ( millisecondes ) */
+
 var l_messagesFade = 1000;
