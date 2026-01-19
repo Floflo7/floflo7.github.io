@@ -22,9 +22,9 @@ var l_bgVideo = false;
 /* Images de Fond
 Placez 5 Images ! */
 var l_bgImages = [
-	"backgrounds/images/fond1.jpg",
-	"backgrounds/images/fond2.jpg",
-	"backgrounds/images/fond3.jpg"
+	"backgrounds/images/fond1.png",
+	"backgrounds/images/fond2.png",
+	"backgrounds/images/fond3.png"
 ];
 
 /* Images dans le Désordre ? ( "True" pour Oui / "False" pour Non )*/
@@ -86,4 +86,5 @@ var l_messagesDelay = 3000;
 /*Durée de l'animation de changement d'image ( millisecondes ) */
 
 var l_messagesFade = 1000;
+
 
